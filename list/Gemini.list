@@ -1,6 +1,16 @@
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,signalr.net
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Gemini/Gemini.list
+
+# 精确匹配特定主机名（优先级最高）
+HOST,ai.google.dev,Gemini
+HOST,alkalimakersuite-pa.clients6.google.com,Gemini
+
+# 匹配特定域名后缀（次优先级）
+HOST-SUFFIX,bard.google.com,Gemini
+HOST-SUFFIX,deepmind.com,Gemini
+HOST-SUFFIX,generativeai.google,Gemini
+
+# 通用后缀匹配（最低优先级）
+DOMAIN-SUFFIX,googleapis.com,Gemini
+DOMAIN-SUFFIX,googleapis.cn,Gemini
+DOMAIN-SUFFIX,gstatic.com,Gemini
+DOMAIN-SUFFIX,signalr.net,Gemini
