@@ -1,17 +1,17 @@
 # 内容：My direct domains
 
 # NAME: Autodesk Fusion
-DOMAIN,autodesk.com
-DOMAIN,autodesk360.com
-DOMAIN,akamaiedge.net
-DOMAIN,akamai.com
-DOMAIN,launchdarkly.com
-DOMAIN,amazonaws.com
-DOMAIN,akamaitechnologies.com
+DOMAIN-SUFFIX,autodesk.com
+DOMAIN-SUFFIX,autodesk360.com
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,akamaitechnologies.com
 
 # NAME: Others
 
-DOMAIN,ipinfo.io
-DOMAIN,nist.gov
-DOMAIN,ntp.org
-DOMAIN,ntp.ubuntu.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,ntp.ubuntu.com
