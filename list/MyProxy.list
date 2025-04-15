@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bulianglin.com
 
+# NAME: News
+DOMAIN-SUFFIX,rfi.fr
+
 # NAME: For Fun
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,91porny.com
